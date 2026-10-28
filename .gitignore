@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor and operating system
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+
+data/creditcard.csv

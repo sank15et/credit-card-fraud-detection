@@ -1,0 +1,9 @@
+metric,value
+total_transactions,284807.0
+total_columns,31.0
+legitimate_transactions,284315.0
+fraudulent_transactions,492.0
+legitimate_percentage,99.827251
+fraud_percentage,0.172749
+missing_values,0.0
+duplicate_rows,1081.0
